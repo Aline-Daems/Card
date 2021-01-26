@@ -1,0 +1,28 @@
+{
+  "name": "@aline-daems/card",
+  "version": "1.0.3",
+  "description": "",
+  "main": "./index.js",
+  "bin":{
+    "aline": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "boxen": "^5.0.0",
+    "gradient-string": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aline-Daems/Card.git"
+  },
+  "author": "aline-daems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aline-Daems/Card/issues"
+  },
+  "homepage": "https://github.com/Aline-Daems/Card#readme"
+}
