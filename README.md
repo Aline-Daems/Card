@@ -1,6 +1,5 @@
 # Card
-
-My first project with NodeJS. 
+My little card 
 
 If you want see the result =>
 
